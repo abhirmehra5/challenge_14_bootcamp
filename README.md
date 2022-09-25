@@ -18,7 +18,7 @@ Model 2 is better.
 
 ## Model 4 (Classififcation - Decision Tree)
 <img width="484" alt="Screen Shot 2022-09-25 at 1 36 58 AM" src="https://user-images.githubusercontent.com/107518702/192130003-830628ed-575b-4f0f-8c7a-f1839c1006e4.png">
-This strategy's cumulative returns are 1.60.
+This strategy's cumulative returns are 0.60.
 
 Model 2 is better.
 
