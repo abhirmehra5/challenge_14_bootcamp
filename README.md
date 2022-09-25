@@ -1,20 +1,21 @@
 # challenge_14_bootcamp
 
 ## Model 1 (Training Window - 3 Months)
-<img width="486" alt="Model 1" src="https://user-images.githubusercontent.com/107518702/192128794-a8179bf2-fb03-428b-8690-bdb985b7a2dd.png">
-This models strategy has cumulative returns of 0.65.
+(1 + predictions_df[["Actual Returns", "Strategy Returns"]]).cumprod()
+This strategy's cumulative returns are 1.61
 
-## Model 2 (Training Window - 9 Months)
-<img width="486" alt="Model 2" src="https://user-images.githubusercontent.com/107518702/192128798-633d143e-6a87-4d27-bc2e-48371988cee9.png">
-This models strategy has cumulative returns of 0.70.
+
+## Model 2 <img width="502" alt="Screen Shot 2022-09-25 at 1 05 24 AM" src="https://user-images.githubusercontent.com/107518702/192129251-54530c55-3160-4422-a4c1-e5b787c23f43.png">
+(Training Window - 6 Months)
+This strategy's cumulative returns are 1.75
+This model is better
 
 Model 2 is better.
 
-## Model 3 (Training Window - 9 Months, Short Window - 40, Long Window - 160)
-<img width="486" alt="Model 3" src="https://user-images.githubusercontent.com/107518702/192128800-878b4431-9992-4d12-a763-2bdcb47d681b.png">
-This models strategy has cumulative returns of 0.83.
-
-Model 3 is the best model.
+## Model 3 (Training Window - 6 Months, Short Window - 40, Long Window - 160)
+<img width="502" alt="Screen Shot 2022-09-25 at 1 20 46 AM" src="https://user-images.githubusercontent.com/107518702/192129549-20d45b16-bb31-49bf-a7e9-9b5ac90295bb.png">
+This models strategy has cumulative returns of 1.63.
+Model 2 is better.
 
 
 
