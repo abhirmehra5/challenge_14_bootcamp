@@ -11,7 +11,7 @@ This strategy's cumulative returns are 1.61
 <img width="502" alt="Screen Shot 2022-09-25 at 1 05 24 AM" src="https://user-images.githubusercontent.com/107518702/192129251-54530c55-3160-4422-a4c1-e5b787c23f43.png">
 This strategy's cumulative returns are 1.75
 
-This model is better
+Model 2 is better.
 
 
 ## Model 3 (Training Window - 6 Months, Short Window - 40, Long Window - 160)
