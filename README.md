@@ -17,7 +17,7 @@ Model 2 is better.
 ## Model 3 (Training Window - 6 Months, Short Window - 40, Long Window - 160)
 
 <img width="502" alt="Screen Shot 2022-09-25 at 1 20 46 AM" src="https://user-images.githubusercontent.com/107518702/192129549-20d45b16-bb31-49bf-a7e9-9b5ac90295bb.png">
-This models strategy has cumulative returns of 1.63.
+This strategy's cumulative returns are 1.63
 
 Model 2 is better.
 
